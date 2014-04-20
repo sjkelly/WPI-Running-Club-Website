@@ -10,7 +10,7 @@ From the website directory...
 
 Replace with your account info.
 
-    sftp sjkelly@ccc.wpi.ecd
+    sftp sjkelly@ccc.wpi.edu
 
 In the CCC shell run.
 
