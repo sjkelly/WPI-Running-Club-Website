@@ -29,6 +29,7 @@ First set the map on mapmyrun to be public. When you click on the link to view t
         - 386899162
 
 ## Group Account Links
-http://www.wpi.edu/+groupaccount
-http://www.wpi.edu/+gred
+
+* http://www.wpi.edu/+groupaccount
+* http://www.wpi.edu/+gred
 
