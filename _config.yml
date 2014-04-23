@@ -1,5 +1,5 @@
 markdown: kramdown
 pygments: true
 url: ""
-baseurl: "http://users.wpi.edu/~running"
+baseurl: "http://run.wpi.edu"
 destination: public_html
